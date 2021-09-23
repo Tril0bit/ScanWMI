@@ -1,0 +1,32 @@
+T:\rin\Utilita\Utilita\bin\Release\Utilita.exe
+T:\rin\Utilita\Utilita\obj\Release\Utilita.Form2.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.Loading.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.NetUser.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.Pathping.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.ping.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.RDform.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.Shutdown.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.tracert.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.wifi.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.csproj.GenerateResource.Cache
+T:\rin\Utilita\Utilita\obj\Release\Utilita.exe
+T:\rin\Utilita\Utilita\obj\Release\Utilita.WMI.resources
+T:\rin\Utilita\Utilita\obj\Release\Utilita.Inv.resources
+T:\rin\Utilita\Utilita\obj\Release\ResolveAssemblyReference.cache
+T:\rin\Utilita\Utilita\bin\Release\Utilita.exe.config
+T:\myfiles\Scan 070317\Utilita\Utilita\bin\Release\Utilita.exe.config
+T:\myfiles\Scan 070317\Utilita\Utilita\bin\Release\Utilita.exe
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\ResolveAssemblyReference.cache
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.Form2.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.Inv.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.Loading.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.NetUser.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.Pathping.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.ping.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.RDform.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.Shutdown.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.tracert.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.wifi.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.WMI.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.csproj.GenerateResource.Cache
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Release\Utilita.exe

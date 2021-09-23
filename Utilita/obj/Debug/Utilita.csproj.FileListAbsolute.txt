@@ -1,0 +1,60 @@
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\Utilita.MainForm.resources
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\bin\Debug\Utilita.exe
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\bin\Debug\Utilita.pdb
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\Utilita.exe
+C:\Documents and Settings\Статистик\Мои документы\SharpDevelop Projects\Utilita\Utilita\obj\Debug\Utilita.pdb
+T:\rin\Utilita\Utilita\bin\Debug\Utilita.exe
+T:\rin\Utilita\Utilita\bin\Debug\Utilita.pdb
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.csproj.GenerateResource.Cache
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.exe
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.pdb
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.MainForm.resources
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.exe
+C:\Users\User\Desktop\WMI\Utilita\Utilita\bin\Debug\Utilita.exe
+C:\Users\User\Desktop\WMI\Utilita\Utilita\bin\Debug\Utilita.pdb
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.pdb
+C:\Users\User\Desktop\WMI\Utilita\Utilita\obj\Debug\Utilita.Form2.resources
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\bin\Debug\Utilita.exe
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\bin\Debug\Utilita.pdb
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.Form2.resources
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.MainForm.resources
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.exe
+C:\Users\User\Desktop\WMI\Utilita_clear\Utilita\obj\Debug\Utilita.pdb
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.Form2.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.ping.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.wifi.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.Loading.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.tracert.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.Pathping.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.Shutdown.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.NetUser.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.RDform.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.WMI.resources
+T:\rin\Utilita\Utilita\obj\Debug\Utilita.Inv.resources
+T:\rin\Utilita\Utilita\bin\Debug\Utilita.exe.config
+T:\rin\Utilita\Utilita\obj\Debug\ResolveAssemblyReference.cache
+T:\myfiles\Scan 070317\Utilita\Utilita\bin\Debug\Utilita.exe.config
+T:\myfiles\Scan 070317\Utilita\Utilita\bin\Debug\Utilita.exe
+T:\myfiles\Scan 070317\Utilita\Utilita\bin\Debug\Utilita.pdb
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\ResolveAssemblyReference.cache
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.Form2.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.Inv.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.Loading.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.NetUser.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.Pathping.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.ping.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.RDform.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.Shutdown.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.tracert.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.wifi.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.WMI.resources
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.csproj.GenerateResource.Cache
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.exe
+T:\myfiles\Scan 070317\Utilita\Utilita\obj\Debug\Utilita.pdb

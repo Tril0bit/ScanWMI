@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{930DAB57-49D5-4C9D-91F2-903E96E80EAB}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Utilita</RootNamespace>
+    <AssemblyName>Utilita</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\r.rifkhakov\AppData\Roaming\ICSharpCode/SharpDevelop4\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>True</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form2.cs" />
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inv.cs" />
+    <Compile Include="Inv.Designer.cs">
+      <DependentUpon>Inv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs" />
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetUser.cs" />
+    <Compile Include="NetUser.Designer.cs">
+      <DependentUpon>NetUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pathping.cs" />
+    <Compile Include="Pathping.Designer.cs">
+      <DependentUpon>Pathping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ping.cs" />
+    <Compile Include="ping.Designer.cs">
+      <DependentUpon>ping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RDform.cs" />
+    <Compile Include="RDform.Designer.cs">
+      <DependentUpon>RDform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shutdown.cs" />
+    <Compile Include="Shutdown.Designer.cs">
+      <DependentUpon>Shutdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tracert.cs" />
+    <Compile Include="tracert.Designer.cs">
+      <DependentUpon>tracert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wifi.cs" />
+    <Compile Include="wifi.Designer.cs">
+      <DependentUpon>wifi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WMI.cs" />
+    <Compile Include="WMI.Designer.cs">
+      <DependentUpon>WMI.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inv.resx">
+      <DependentUpon>Inv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NetUser.resx">
+      <DependentUpon>NetUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pathping.resx">
+      <DependentUpon>Pathping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ping.resx">
+      <DependentUpon>ping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RDform.resx">
+      <DependentUpon>RDform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shutdown.resx">
+      <DependentUpon>Shutdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tracert.resx">
+      <DependentUpon>tracert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wifi.resx">
+      <DependentUpon>wifi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMI.resx">
+      <DependentUpon>WMI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
